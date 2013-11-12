@@ -16,16 +16,16 @@ MsgId ""
 "Tags &lt;b&gt; &lt;u&gt; &lt;i&gt; &lt;br&gt; &lt;code&gt; and &lt;http://...&gt; are allowed.  "
 "Use ** at the beginning of any line for a bulleted list."
 MsgStr ""
-"Etiquetas &lt;b&gt; &lt;u&gt; &lt;i&gt; &lt;br&gt; &lt;code&gt; y &lt;http://...&gt; est�n permitidas.  "
+"Etiquetas &lt;b&gt; &lt;u&gt; &lt;i&gt; &lt;br&gt; &lt;code&gt; y &lt;http://...&gt; est&aacute;n permitidas.  "
 "Use ** al comienzo de cada linea para una lista por puntos."
 
 
 # For QPaginatedControl controls
 MsgId "item"
-MsgStr "art�culo"
+MsgStr "art&iacute;culo"
 
 MsgId "items"
-MsgStr "art�culos"
+MsgStr "art&iacute;culos"
 
 
 # For QListBox and QCalendar controls
@@ -101,7 +101,7 @@ MsgId "Delete"
 MsgStr "Borrar"
 
 MsgId "Are you SURE you want to DELETE this %s?"
-MsgStr "�Est� SEGURO de querer BORRAR este %s?"
+MsgStr "¿Est&aacute; SEGURO de querer BORRAR este %s?"
 
 
 # For the form_drafts/index.php page
